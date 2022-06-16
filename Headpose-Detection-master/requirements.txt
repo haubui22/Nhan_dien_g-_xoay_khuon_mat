@@ -1,0 +1,6 @@
+cmake
+torch
+facenet_pytorch==2.5.2
+dlib
+numpy
+opencv-python
